@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9045" started-at="2022-02-26T11:36:49 IST" finished-at="2022-02-26T11:36:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9045" started-at="2022-02-26T11:36:49 IST" finished-at="2022-02-26T11:36:58 IST">
+      <class name="com.testNGFeatures.IAnnotationTransformer_Concept">
+        <test-method status="PASS" signature="openAdactin()[pri:0, instance:com.testNGFeatures.IAnnotationTransformer_Concept@7a1ebcd8]" name="openAdactin" duration-ms="6352" started-at="2022-02-26T11:36:49 IST" finished-at="2022-02-26T11:36:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAdactin -->
+        <test-method status="PASS" signature="openFacebook()[pri:0, instance:com.testNGFeatures.IAnnotationTransformer_Concept@7a1ebcd8]" name="openFacebook" duration-ms="2659" started-at="2022-02-26T11:36:56 IST" finished-at="2022-02-26T11:36:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFacebook -->
+      </class> <!-- com.testNGFeatures.IAnnotationTransformer_Concept -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
